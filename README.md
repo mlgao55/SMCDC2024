@@ -19,7 +19,7 @@ Workflow:
   
 Note:
 
-Generate Q&A pairs : Create_Q_A.py
-Generate Summaries:  Create_Summary.py
-Translate into other languages: translate.py
-Convert output into audio mp3 file: voice.py
+- Generate Q&A pairs : Create_Q_A.py
+- Generate Summaries:  Create_Summary.py
+- Translate into other languages: translate.py
+- Convert output into audio mp3 file: voice.py
